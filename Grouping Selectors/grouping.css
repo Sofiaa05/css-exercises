@@ -1,0 +1,11 @@
+.yes{
+background-color: black;
+color: white;
+}
+.no{
+background-color: yellow;
+}
+button, button{
+    font-size: 28px;
+    font-style: helvetica, Times New Roman, sans-serif;
+}
